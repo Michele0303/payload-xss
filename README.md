@@ -28,6 +28,6 @@
 <!-- `` -->
 
 
-# REFERENCE:
+# REFERENCES:
 https://xn4k.github.io/pentest/bug%20bounty/ethical%20hacking/XSS-Filter-Evasion-Cheat-Sheet/
 https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
